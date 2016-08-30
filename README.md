@@ -17,6 +17,16 @@ _microhouse_0.5.skp: Sketchup 3D Model of the complete design including cladding
 
 _microhouse_0.5_chassis.skp: Sketchup 3D Model of the Wikihouse structural chassis
 
+
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/ac3263022fca412c934ea9dd7c5b5521/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/ac3263022fca412c934ea9dd7c5b5521?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Microhouse</a>
+    by <a href="https://sketchfab.com/wikihouseproject?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">wikihouseproject</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
 # Terms of use
 
 By downloading these files or information you agree to the following terms and conditions.
