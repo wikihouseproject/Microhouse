@@ -1,4 +1,4 @@
-#### IMPORTANT: This repo uses an outdated, unsupported WikiHouse system. For the latest WikiHouse core system info please see the [Skylark repo](https://github.com/wikihouseproject/Skylark) and [WikiHouse guides](https://www.wikihouse.cc/guides)
+### IMPORTANT: This repo uses an outdated, unsupported WikiHouse system. For the latest WikiHouse core system info please see the [Skylark repo](https://github.com/wikihouseproject/Skylark) and [WikiHouse guides](https://www.wikihouse.cc/guides)
 
 
 # Microhouse 
