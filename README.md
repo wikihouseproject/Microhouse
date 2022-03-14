@@ -1,7 +1,9 @@
+#### IMPORTANT: This repo uses an outdated, unsupported WikiHouse system. For the latest WikiHouse core system info please see the [Skylark repo](https://github.com/wikihouseproject/Skylark) and [WikiHouse guides](https://www.wikihouse.cc/guides)
+
 
 # Microhouse 
 
-MicroHouse is a high-performance, one-bed house type, designed using the WikiHouse building system. It uses WikiHouse products WREN and SPARROW. It has been designed primarily for use in the UK, but could also be adapted for other countries and regions. The home can be largely self-assembled, and costs around £37-45k GBP to produce. 
+MicroHouse is a high-performance, one-bed house type, designed using the WikiHouse Wren building system. It has been designed primarily for use in the UK, but could also be adapted for other countries and regions. The home can be largely self-assembled, and costs around £37-45k GBP to produce. 
 
 These files are also intended as starter files for architects, designers, engineers and others interested in getting to know how to use the WikiHouse WREN system within a full design.
 
